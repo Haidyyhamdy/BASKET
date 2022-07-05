@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:shopping_app/shared/cubit/states.dart';
 import 'package:shopping_app/shared/network/local/cache_helper.dart';
 
-class ModeCubit extends Cubit<AppStates> {
+class ModeCubit extends Cubit<ModeStates> {
   ModeCubit() : super(AppInitialStates());
 
   static ModeCubit get(context) => BlocProvider.of(context);

@@ -1,5 +1,5 @@
-abstract class AppStates {}
+abstract class ModeStates {}
 
-class AppInitialStates extends AppStates {}
+class AppInitialStates extends ModeStates {}
 
-class AppChangeMode extends AppStates {}
+class AppChangeMode extends ModeStates {}

@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
       ),
       ],
 
-      child: BlocConsumer<ModeCubit, AppStates>(
+      child: BlocConsumer<ModeCubit, ModeStates>(
         listener: (context, state) {},
         builder: (context, state) {
           return MaterialApp(
