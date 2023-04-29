@@ -1,11 +1,11 @@
 # BASKET
 
 **OverView**:
-Used Dart & Flutter framework.
-Creating by Bloc State management.
-Clean Code.
-Use API.
-Shared Preferences
+>Used Dart & Flutter framework.
+>Creating by Bloc State management.
+>Clean Code.
+>Use API.
+>Shared Preferences
 
 
 Features
