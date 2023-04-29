@@ -1,27 +1,41 @@
 # BASKET
 
 **OverView**:
-Used Dart & Flutter framework.
 
 
-Creating by Bloc State management.
+-Used Dart & Flutter framework.
 
 
-Clean Code.
+-Creating by Bloc State management.
 
 
-Use API.
+-Clean Code.
 
 
-Shared Preferences
+-Use API.
+
+
+-Shared Preferences
 
 
 **Features**:
+
+
 -Light/dark mode toggle
+
+
 -Splash & OnBoarding.
+
+
 -Get Products.
+
+
 -Authintication.
+
+
 -Ability to change name or profile image..
+
+
 -Filtering the products.
 
 **video demo** :
