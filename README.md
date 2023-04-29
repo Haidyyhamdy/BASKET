@@ -1,6 +1,7 @@
 # BASKET
 
-![logo](https://user-images.githubusercontent.com/93411570/235320101-22d082b3-9d49-4392-8c05-da4f170e1a68.png)
+
+![icon](https://user-images.githubusercontent.com/93411570/235320135-2a16855e-34a5-4576-a003-b13e6118a1a0.png)
 
 
 **OverView**:
