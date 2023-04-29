@@ -1,16 +1,19 @@
 # BASKET
 
-A new Flutter application.
+OverView:
+Used Dart & Flutter framework.
+Creating by Bloc State management.
+Clean Code.
+Use API.
+Shared Preferences
 
-## Getting Started
+Features
+Light/dark mode toggle
+Splash & OnBoarding.
+Get Products.
+Authintication.
+Ability to change name or profile image..
+Filtering the products.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+video demo :
+https://drive.google.com/file/d/1Rt7Guiw7nJi0m6CKe7jEgxt1nEUNfLAq/view?usp=share_link
